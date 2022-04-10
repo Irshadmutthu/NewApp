@@ -11,7 +11,7 @@
         android:id="@+id/url_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Type Url"
+        android:hint="Type URL"
         android:textSize="25dp"
         android:layout_marginTop="140dp"
  />
